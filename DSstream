@@ -374,12 +374,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/628/628-LOGO-m.png" group-title="[DS] VISION+",Animax V+
-https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/700/700-LOGO-m.png" group-title="[DS] VISION+",Bali TV V+
@@ -428,24 +422,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinem
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png" group-title="[DS] VISION+",Celestial Movie V+
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png" group-title="[DS] VISION+",Cinemaworld V+
-https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="[DS] VISION+",CCM V+
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/679/679-LOGO-m.png" group-title="[DS] VISION+",CGTN Doc V+
-https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
@@ -458,12 +439,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/Crim
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="[DS] VISION+",Daai TV V+
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:7f8b3b508bb394919dab1b6e91e7bacf
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png" group-title="[DS] VISION+",Entertainment V+
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
@@ -494,12 +469,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png" group-title="[DS] VISION+",Global Trekker V+
 https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png" group-title="[DS] VISION+",History V+
-https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
@@ -681,12 +650,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="[DS] VISION+",Tvn VISION + V+
-https://cempedak-live-cdn.mncnow.id/live/eds/tvNVISION +/sa_dash_vmx/tvNVISION +.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="[DS] VISION+",Thrill V+
@@ -812,15 +775,11 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-logo="https://iili.io/JbtnVEu.png" group-title="[DS] LOKAL",Bali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
- 
-#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://iili.io/Jbtnh2j.png" group-title="[DS] LOKAL",Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
  
 #EXTINF:-1 tvg-id="Jaktv" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="[DS] LOKAL",JakTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -841,12 +800,6 @@ https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="[DS] LOKAL",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-  
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="[DS] LOKAL",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="[DS] LOKAL",Semarang TV
-http://116.254.112.74:80/hls/cakralive.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnEQ9.png" group-title="[DS] LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
@@ -863,21 +816,7 @@ https://flv.intechmedia.net/live/ch54.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jm9IvWJ.png" group-title="[DS] LOKAL",Timor TV
 https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="[DS] LOKAL",Arek TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" group-title="[DS] LOKAL",Batu TV
-http://117.103.69.219:8080/live/streaming/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnWrb.png" group-title="[DS] LOKAL",Balikpapan TV
-https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" group-title="[DS] LOKAL",PKTV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jyi8zhB.png" group-title="[DS] LOKAL",AKTV
-https://e.siar.us/live/aktv.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" group-title="[DS] LOKAL",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
@@ -886,36 +825,16 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch58.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtoJyl.png" group-title="[DS] LOKAL",Duta TV
-https://o1.siar.us/dutatv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="[DS] LOKAL",Jaya TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch52.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" group-title="[DS] LOKAL",Prima TV
 https://primatv.siar.us/primatv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="[DS] LOKAL",Banten TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnkhP.png" group-title="[DS] LOKAL",Batam TV
-http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="[DS] LOKAL",BMS TV
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtn6Yv.png" group-title="[DS] LOKAL",Dayak TV
-https://v5.siar.us/dayaktv/live/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="[DS] LOKAL",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="[DS] LOKAL",Dhoho TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/2l6yLEG.png" group-title="[DS] LOKAL",Gamalama TV
-https://ythls.armelin.one/channel/UCTqF-B3epH3NEGqu8J0nVYQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="[DS] LOKAL",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
@@ -929,18 +848,9 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtny3G.png" group-title="[DS] LOKAL",Jambi TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtoHv4.png" group-title="[DS] LOKAL",Jek TV
-https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://iili.io/dR30Mxe.png" group-title="[DS] LOKAL",Kawanua TV
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtoqGe.png" group-title="[DS] LOKAL",MGS TV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbton3b.png" group-title="[DS] LOKAL",Pal TV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch18.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtouwB.png" group-title="[DS] LOKAL",Pon TV
 http://63b2dc7196c38.streamlock.net:1935/ch15/myStream/playlist.m3u8
@@ -968,5 +878,3 @@ https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnY74.png" group-title="[DS] LOKAL",SMTV
 http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title="[DS] LOKAL",Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
